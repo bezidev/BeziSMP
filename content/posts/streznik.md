@@ -2,11 +2,13 @@
 author: "BežiSMP"
 title: "Strežnik"
 date: "2023-05-00"
-description: "Ker nekje je treba gostiti vse skupaj."
+description: "Generalno o strežniku in strežniški namestitvi."
 tags: []
 ShowToc: false
 ShowBreadCrumbs: false
 ---
+
+## Strežniške specifikacije
 
 Strežniške specifikacije so naslednje:
 
@@ -21,4 +23,16 @@ Strežniške specifikacije so naslednje:
 
 Torej server **NE BO** laggal dokler ne boste gradili lag mašin.
 
+## Ugašanje strežnika
+
 Strežnik se ugasne vsak dan ob 4.00. Strežnik se vrne nazaj čez nekaj minut. Ob tej uri se ponovno zažene, ker takrat _naj ne bi_ nihče igral, poleg vsega pa je treba sprostiti malo RAM-a.
+
+## Plugini
+
+- InvSee++ (za dajanje stvari nazaj ob strežniškem lagu)
+- Graves (na pobudo skupnosti, saj so raje imeli malo manj raztreščene stvari, ko so se med sabo pobijali)
+
+## Generalno
+
+- keepInventory **NI** prižgan. Ko umrete, se vam na točki smrti pojavi grob, ki se izbriše po okoli treh urah.
+- Za prespanje noči je potreben samo en igralec.
