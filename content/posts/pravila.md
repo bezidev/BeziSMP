@@ -16,6 +16,7 @@ Generalno ne želimo, da delate naslednje:
 - uporaba exploitov
 - hekanje/uporaba prepovedanih modifikacij igre (pač, iskreno, mene prav malo briga koliko in zakaj hekate, dokler ne hekate res vsepovprek. Če boste hekali na samem in se nobeden ne bo pritoževal, me iskreno niti malo ne briga, kaj delate. Anticheat ni nameščen. 🫠)
 - žaljenje vsepovprek ("prijateljsko žaljenje" je dovoljeno, dokler ne užali druge osebe ipd.)
+- brez pobijanja drugih, če se s tem niso predhodno strinjali. Boji (igralec proti igralcu - PVP) so dovoljeni, dokler je predhodno napovedan in organiziran, tj. z bojem se strinjajo vsi udeleženi
 - pls brez lag machinov - ti samo uničujejo experience drugim
 
 Strežniški administrator si pridržuje pravico za kaznovanje dejanj, ki tu niso navedene. Dejanja se kaznujejo odvisno od volje administratorja. Če me boste zbujali med šolskim delom ne bom ravno vesel in si pridržujem pravico, da vas bannam za malo dlje, kot ostale, ki so povzročali ista dejanja 🙃.
