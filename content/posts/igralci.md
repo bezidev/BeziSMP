@@ -1,7 +1,7 @@
 ---
 author: "BežiSMP"
 title: "Igralci"
-date: "2023-05-00"
+date: "2023-05-01"
 description: "Brez igralcev ne bi bilo tega strežnika."
 tags: []
 ShowToc: false

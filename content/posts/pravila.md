@@ -1,7 +1,7 @@
 ---
 author: "BežiSMP"
 title: "Pravila"
-date: "2023-05-00"
+date: "2023-05-01"
 description: "Na BežiSMP-ju morajo žal veljati določena pravila."
 tags: []
 ShowToc: false

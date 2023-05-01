@@ -1,7 +1,7 @@
 ---
 author: "BežiSMP"
 title: "Strežnik"
-date: "2023-05-00"
+date: "2023-05-01"
 description: "Generalno o strežniku in strežniški namestitvi."
 tags: []
 ShowToc: false

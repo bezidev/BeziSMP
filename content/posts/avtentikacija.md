@@ -1,7 +1,7 @@
 ---
 author: "BežiSMP"
 title: "Avtentikacija"
-date: "2023-05-00"
+date: "2023-05-01"
 description: "Izbira ni bila ravno prava (ali pač)."
 tags: []
 ShowToc: false

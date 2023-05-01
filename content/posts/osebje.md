@@ -1,7 +1,7 @@
 ---
 author: "BežiSMP"
 title: "Osebje"
-date: "2023-05-00"
+date: "2023-05-01"
 description: "Osebje lahko kontaktirate v primeru česarkoli v zvezi s strežnikom."
 tags: []
 ShowToc: false

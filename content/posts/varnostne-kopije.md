@@ -1,7 +1,7 @@
 ---
 author: "BežiSMP"
 title: "Varnostne kopije"
-date: "2023-05-00"
+date: "2023-05-01"
 description: "Varnostne kopije so pomemben del vsakega Minecraft strežnika."
 tags: []
 ShowToc: false

@@ -1,7 +1,7 @@
 ---
 author: "BežiSMP"
 title: "Lag"
-date: "2023-05-00"
+date: "2023-05-01"
 description: "Včasih je bil lag kar pogost, sedaj pa ni več."
 tags: []
 ShowToc: false
