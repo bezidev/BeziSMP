@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: http://smp.beziapp.si/sitemap.xml
