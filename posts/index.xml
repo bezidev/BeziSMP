@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on BežiSMP</title>
+    <link>http://smp.beziapp.si/posts/</link>
+    <description>Recent content in Posts on BežiSMP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sl-SI</language><atom:link href="http://smp.beziapp.si/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avtentikacija</title>
+      <link>http://smp.beziapp.si/posts/avtentikacija/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smp.beziapp.si/posts/avtentikacija/</guid>
+      <description>Strežniški administratorji si lahko izberejo, ali bi radi, da njihov strežnik preverja, če profili, ki se povezujejo na strežnik, dejansko obstajajo in so veljavni profili pri Mojangu (v nadaljevanju tudi online avtentikacija) ali pa, da strežnik ne preverja, če profili obstajajo (v nadaljevanju offline avtentikacija).
+Na žalost sem kot strežniški administrator pozabil ugasniti online avtentikacijo, ko smo začeli s strežnikom pa so igralci kar naprej prihajali, dokler nisem naletel na igralce, ki niso imeli Minecraft računov.</description>
+    </item>
+    
+    <item>
+      <title>Igralci</title>
+      <link>http://smp.beziapp.si/posts/igralci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smp.beziapp.si/posts/igralci/</guid>
+      <description>Spodaj lahko najdete igralce, ki so (ali še vedno) redno igrajo na BežiSMP-ju in so veliko doprinesli k strežniku. Igralci so podani v abecednem vrstnem redu.
+Aelin5 je bila redna igralka. Njej je namenjena tudi hiša, ki ji jo je moral zgraditi TNT444.
+Anze007 je bil redni igralec.
+Bobi_Veliki (sedaj mia_mc123) je bil redni igralec.
+JazArhitekt je bil (relativno) redni igralec, ki je poskrbel tudi za villager farmo.
+murcina je bil redni igralec, ki je doprinesel tudi k optimizacijam starega strežnika in številnim zgradbam.</description>
+    </item>
+    
+    <item>
+      <title>Lag</title>
+      <link>http://smp.beziapp.si/posts/lag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smp.beziapp.si/posts/lag/</guid>
+      <description>Včasih je bil BežiSMP gosten na nekih grških serverjih, ki so imeli počasne, zastarele procesorje, niso imeli veliko RAM-a in najnovejši operacijski sistem na njih je bil Ubuntu 16.04 LTS, kar je samo žalostno. Nekaj časa so igralci morali trpeti grozne posledice laga, ki pa niso več prisotne.
+Dokler ne boste gradili lag machinov, bo strežnik čisto v redu, saj ima dokaj dobre specifikacije.
+Če je administrator online na strežniku, mu lahko pišete, če ste izgubili kak več vreden predmet ali pa je chunk koruptiran in vam bo poskušal najbolje pomagati (povrniti predmet oz.</description>
+    </item>
+    
+    <item>
+      <title>Osebje</title>
+      <link>http://smp.beziapp.si/posts/osebje/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smp.beziapp.si/posts/osebje/</guid>
+      <description>Vsi administratorji so razvrščeni po abecednem vrstnem redu.
+Administratorji Discord strežnika Minecraft IGN Avatar Minecraft računa Avatar na Discord strežniku Discord tag Drugo mytjadev mytja#4761 elektronska pošta 1 elektronska pošta 2 (v primeru, da 1 ne dela) TNT444 TNT444#4434 Administratorji Minecraft strežnika (/op oz. operator) Minecraft IGN Avatar Minecraft računa Avatar na Discord strežniku Discord tag Drugo mytjadev mytja#4761 elektronska pošta 1 elektronska pošta 2 (v primeru, da 1 ne dela) </description>
+    </item>
+    
+    <item>
+      <title>Pravila</title>
+      <link>http://smp.beziapp.si/posts/pravila/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smp.beziapp.si/posts/pravila/</guid>
+      <description>Pretežno ta strežnik nima specifično določenih pravil - tista, ki jih najdete na Discord strežniku so bolj smernice. Ta pravila si mora prebrati vsak preden se prvič priključi na BežiSMP strežnik.
+Generalno ne želimo, da delate naslednje:
+griefanje (uničevanje tujih baz ipd.) uporaba exploitov hekanje/uporaba prepovedanih modifikacij igre (pač, iskreno, mene prav malo briga koliko in zakaj hekate, dokler ne hekate res vsepovprek. Če boste hekali na samem in se nobeden ne bo pritoževal, me iskreno niti malo ne briga, kaj delate.</description>
+    </item>
+    
+    <item>
+      <title>Strežnik</title>
+      <link>http://smp.beziapp.si/posts/streznik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smp.beziapp.si/posts/streznik/</guid>
+      <description>Strežniške specifikacije Strežniške specifikacije so naslednje:
+Procesor: AMD Ryzen 7 5700G Grafična kartica: integrirana AMD Radeon Vega grafika (zakaj bi v serverju potreboval zunanjo grafiko???) RAM: 2x16GB (od tega konstantno alociranega 6GB in največ 10GB alociranega za Minecraft strežnik, lahko tudi povečam na pobudo skupnosti) DDR4-3200 Trdi disk: en generic M.2 PCIe 1TB SSD (Crucial?) Matična plošča: ena random Gigabyte B550M plošča Operacijski sistem: Fedora Server 37 (a kaj obžalujem, da nisem šel Ubuntu/Debian?</description>
+    </item>
+    
+    <item>
+      <title>Varnostne kopije</title>
+      <link>http://smp.beziapp.si/posts/varnostne-kopije/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://smp.beziapp.si/posts/varnostne-kopije/</guid>
+      <description>V primeru večjega griefanja se lahko strežniški administrator odloči za povratek na varnostno kopijo. Varnostna kopija je res skrajni primer, pogosto bo administrator povrnil samo določene chunke na prejšnje stanje, ampak če je griefanje res preobsežno, je treba povrniti celoten strežnik na varnostno kopijo.
+Varnostne kopije so velike (zelo velike datoteke), a iz svojih preteklih izkušenj lahko povem, da se jih splača imeti preveč kot premalo. Na BežiSMP-ju se varnostne kopije delajo vsako polno uro, strežnik pa o tem tudi obvesti igralce.</description>
+    </item>
+    
+  </channel>
+</rss>
