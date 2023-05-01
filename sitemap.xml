@@ -3,27 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://smp.beziapp.si/posts/avtentikacija/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://smp.beziapp.si/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://smp.beziapp.si/posts/igralci/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://smp.beziapp.si/posts/lag/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://smp.beziapp.si/posts/osebje/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://smp.beziapp.si/posts/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://smp.beziapp.si/posts/pravila/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://smp.beziapp.si/posts/streznik/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://smp.beziapp.si/posts/varnostne-kopije/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://smp.beziapp.si/categories/</loc>
   </url><url>
-    <loc>http://smp.beziapp.si/posts/igralci/</loc>
-  </url><url>
-    <loc>http://smp.beziapp.si/posts/lag/</loc>
-  </url><url>
-    <loc>http://smp.beziapp.si/posts/osebje/</loc>
-  </url><url>
-    <loc>http://smp.beziapp.si/posts/</loc>
-  </url><url>
-    <loc>http://smp.beziapp.si/posts/pravila/</loc>
-  </url><url>
     <loc>http://smp.beziapp.si/series/</loc>
   </url><url>
-    <loc>http://smp.beziapp.si/posts/streznik/</loc>
-  </url><url>
     <loc>http://smp.beziapp.si/tags/</loc>
-  </url><url>
-    <loc>http://smp.beziapp.si/posts/varnostne-kopije/</loc>
   </url>
 </urlset>

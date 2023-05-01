@@ -10,11 +10,12 @@
       <link>http://smp.beziapp.si/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sl-SI</language><atom:link href="http://smp.beziapp.si/index.xml" rel="self" type="application/rss+xml" />
+    <language>sl-SI</language>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://smp.beziapp.si/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Avtentikacija</title>
       <link>http://smp.beziapp.si/posts/avtentikacija/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
       <guid>http://smp.beziapp.si/posts/avtentikacija/</guid>
       <description>Izbira ni bila ravno prava (ali pač).</description>
@@ -23,7 +24,7 @@
     <item>
       <title>Igralci</title>
       <link>http://smp.beziapp.si/posts/igralci/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
       <guid>http://smp.beziapp.si/posts/igralci/</guid>
       <description>Brez igralcev ne bi bilo tega strežnika.</description>
@@ -32,7 +33,7 @@
     <item>
       <title>Lag</title>
       <link>http://smp.beziapp.si/posts/lag/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
       <guid>http://smp.beziapp.si/posts/lag/</guid>
       <description>Včasih je bil lag kar pogost, sedaj pa ni več.</description>
@@ -41,7 +42,7 @@
     <item>
       <title>Osebje</title>
       <link>http://smp.beziapp.si/posts/osebje/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
       <guid>http://smp.beziapp.si/posts/osebje/</guid>
       <description>Osebje lahko kontaktirate v primeru česarkoli v zvezi s strežnikom.</description>
@@ -50,7 +51,7 @@
     <item>
       <title>Pravila</title>
       <link>http://smp.beziapp.si/posts/pravila/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
       <guid>http://smp.beziapp.si/posts/pravila/</guid>
       <description>Na BežiSMP-ju morajo žal veljati določena pravila.</description>
@@ -59,7 +60,7 @@
     <item>
       <title>Strežnik</title>
       <link>http://smp.beziapp.si/posts/streznik/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
       <guid>http://smp.beziapp.si/posts/streznik/</guid>
       <description>Generalno o strežniku in strežniški namestitvi.</description>
@@ -68,7 +69,7 @@
     <item>
       <title>Varnostne kopije</title>
       <link>http://smp.beziapp.si/posts/varnostne-kopije/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
       <guid>http://smp.beziapp.si/posts/varnostne-kopije/</guid>
       <description>Varnostne kopije so pomemben del vsakega Minecraft strežnika.</description>
