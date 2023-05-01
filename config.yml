@@ -1,0 +1,168 @@
+baseURL: http://smp.beziapp.si/
+languageCode: sl-SI
+title: BežiSMP
+theme: PaperMod
+defaultContentLanguage: sl
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+# googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+languages:
+  sl:
+    languageName: "slovenščina"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Pravila
+          url: posts/pravila
+          weight: 5
+        - name: Osebje
+          url: posts/osebje
+          weight: 10
+        - name: Igralci
+          url: posts/igralci
+          weight: 15
+        - name: Discord
+          url: https://discord.gg/Anh6rSPM2P
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "BežiSMP - Neuradni Minecraft strežnik Gimnazije Bežigrad"
+  author: BežiSMP
+  # author: ["Me", "You"] # multiple authors
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowToc: true
+  # comments: false
+  images: ["papermod-cover.png"]
+
+  profileMode:
+    enabled: false
+    title: BežiSMP
+    imageUrl: "#"
+    imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: "BežiSMP"
+    Content: >
+      Pozdravljeni na spletni strani neuradnega Minecraft strežnika Gimnazije Bežigrad, na kratko BežiSMP-ja.
+
+      Na Minecraft server se lahko pridružite in priključite vsi Bežigrajčani, dobrodošli ste pa tudi na naš Discord server.
+
+      Ne bom dolgovezil, tukaj imate naš [Discord server](https://discord.gg/Anh6rSPM2P), strežniška (pod)domena (oz. IP) pa je **smp.beziapp.si**.
+
+      <br><br>
+      Hahaha, skoraj bi pozabil. Strežnik trenutno laufa na **Paperju 1.19.2**. Na strežnik se lahko povežete z **Minecraft 1.19.2 klientom**. Planirana je migracija na 1.20.
+
+      <br><br>
+      V primeru nedelovanja strežnika o tem obvestite sistemskega administratorja preko [Discorda](https://discord.com/users/761599472454205531)
+      ali preko [elektronske pošte](mailto:mitja@severkar.eu) (če je ponudnik interneta zamenjal IP naslov ne bo kaj dosti pomagalo pošiljanje sem, zato mi lahko pošljete tudi na [mitja.severkar@gimb.org](mailto:mitja.severkar@gimb.org)).
+      Seveda lahko administratorja obvestite tudi preko Discord strežnika, saj ga administrator redno preglejuje.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/bezidev/BeziSMP"
+    - name: Rss
+      url: "index.xml"
+
+  editPost:
+    URL: "https://github.com/bezidev/BeziSMP/tree/main/content"
+    Text: "Predlagajte spremembe" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # label:
+  #     text: "Home"
+  #     icon: icon.png
+  #     iconHeight: 35
+
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "XYZabc"
+
+  assets:
+    disableHLJS: true
+  #     favicon: "<link / abs url>"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+  #     apple_touch_icon: "<link / abs url>"
+  #     safari_pinned_tab: "<link / abs url>"
+
+  # cover:
+  #     hidden: true # hide everywhere but not in structured data
+  #     hiddenInList: true # hide on list pages and home
+  #     hiddenInSingle: true # hide on single page
+
+  # fuseOpts:
+  #     isCaseSensitive: false
+  #     shouldSort: true
+  #     location: 0
+  #     distance: 1000
+  #     threshold: 0.4
+  #     minMatchCharLength: 0
+  #     keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
