@@ -29,8 +29,11 @@ Strežnik se ugasne vsak dan ob 4.00. Strežnik se vrne nazaj čez nekaj minut. 
 
 ## Plugini
 
-- InvSee++ (za dajanje stvari nazaj ob strežniškem lagu)
-- Graves (na pobudo skupnosti, saj so raje imeli malo manj raztreščene stvari, ko so se med sabo pobijali)
+- [InvSee++](https://www.spigotmc.org/resources/invsee.82342/) (za dajanje stvari nazaj ob strežniškem lagu)
+- [Graves](https://www.spigotmc.org/resources/graves.74208/) (na pobudo skupnosti, saj so raje imeli malo manj raztreščene stvari, ko so se med sabo pobijali)
+- [AuthMe Reloaded](https://github.com/AuthMe/AuthMeReloaded) za avtentikacijo offline igralcev
+- [FastLogin](https://github.com/games647/FastLogin) za avtentikacijo online igralcev
+- [Essentials](https://essentialsx.net/)
 
 ## Generalno
 

@@ -27,15 +27,18 @@ languages:
       series: series
     menu:
       main:
+        - name: Avtentikacija
+          url: posts/avtentikacija
+          weight: 5
         - name: Pravila
           url: posts/pravila
-          weight: 5
+          weight: 10
         - name: Osebje
           url: posts/osebje
-          weight: 10
+          weight: 15
         - name: Igralci
           url: posts/igralci
-          weight: 15
+          weight: 20
         - name: Discord
           url: https://discord.gg/Anh6rSPM2P
 
