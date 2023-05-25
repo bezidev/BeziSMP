@@ -19,7 +19,7 @@ Strežniške specifikacije so naslednje:
 - Matična plošča: ena random Gigabyte B550M plošča
 - Operacijski sistem: Fedora Server 37 (a kaj obžalujem, da nisem šel Ubuntu/Debian? Malo, ampak veliko tudi ne.)
 - ISP: Telemach... (upam, da bo kdaj IPv6)
-- Minecraft strežnik: Pufferfish 1.19.2 (v resnici Paper 1.19.2, samo da še z dodatnimi optimizacijami)
+- Minecraft strežnik: Pufferfish 1.19.4 (v resnici Paper 1.19.4, samo da še z dodatnimi optimizacijami)
 
 Torej server **NE BO** laggal dokler ne boste gradili lag mašin.
 
@@ -33,7 +33,7 @@ Strežnik se ugasne vsak dan ob 4.00. Strežnik se vrne nazaj čez nekaj minut. 
 - [Graves](https://www.spigotmc.org/resources/graves.74208/) (na pobudo skupnosti, saj so raje imeli malo manj raztreščene stvari, ko so se med sabo pobijali)
 - [AuthMe Reloaded](https://github.com/AuthMe/AuthMeReloaded) za avtentikacijo offline igralcev
 - [FastLogin](https://github.com/games647/FastLogin) za avtentikacijo online igralcev
-- [Essentials](https://essentialsx.net/)
+- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 
 ## Generalno
 
