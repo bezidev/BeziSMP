@@ -2,76 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on BežiSMP</title>
-    <link>http://smp.beziapp.si/posts/</link>
+    <link>https://smp.beziapp.si/posts/</link>
     <description>Recent content in Posts on BežiSMP</description>
     <image>
       <title>BežiSMP</title>
-      <url>http://smp.beziapp.si/papermod-cover.png</url>
-      <link>http://smp.beziapp.si/papermod-cover.png</link>
+      <url>https://smp.beziapp.si/papermod-cover.png</url>
+      <link>https://smp.beziapp.si/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl-SI</language>
-    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://smp.beziapp.si/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smp.beziapp.si/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Voice chat</title>
+      <link>https://smp.beziapp.si/posts/voice/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smp.beziapp.si/posts/voice/</guid>
+      <description>Na strežniku je nameščen proximity voice chat. (uporaba ni obvezna - za zdaj ...)</description>
+    </item>
+    
     <item>
       <title>Avtentikacija</title>
-      <link>http://smp.beziapp.si/posts/avtentikacija/</link>
+      <link>https://smp.beziapp.si/posts/avtentikacija/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://smp.beziapp.si/posts/avtentikacija/</guid>
+      <guid>https://smp.beziapp.si/posts/avtentikacija/</guid>
       <description>Vse o avtentikaciji (različni tipi računov) na BežiSMP-ju.</description>
     </item>
     
     <item>
       <title>Igralci</title>
-      <link>http://smp.beziapp.si/posts/igralci/</link>
+      <link>https://smp.beziapp.si/posts/igralci/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://smp.beziapp.si/posts/igralci/</guid>
+      <guid>https://smp.beziapp.si/posts/igralci/</guid>
       <description>Brez igralcev ne bi bilo tega strežnika.</description>
     </item>
     
     <item>
       <title>Lag</title>
-      <link>http://smp.beziapp.si/posts/lag/</link>
+      <link>https://smp.beziapp.si/posts/lag/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://smp.beziapp.si/posts/lag/</guid>
+      <guid>https://smp.beziapp.si/posts/lag/</guid>
       <description>Včasih je bil lag kar pogost, sedaj pa ni več.</description>
     </item>
     
     <item>
       <title>Osebje</title>
-      <link>http://smp.beziapp.si/posts/osebje/</link>
+      <link>https://smp.beziapp.si/posts/osebje/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://smp.beziapp.si/posts/osebje/</guid>
+      <guid>https://smp.beziapp.si/posts/osebje/</guid>
       <description>Osebje lahko kontaktirate v primeru česarkoli v zvezi s strežnikom.</description>
     </item>
     
     <item>
       <title>Pravila</title>
-      <link>http://smp.beziapp.si/posts/pravila/</link>
+      <link>https://smp.beziapp.si/posts/pravila/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://smp.beziapp.si/posts/pravila/</guid>
+      <guid>https://smp.beziapp.si/posts/pravila/</guid>
       <description>Na BežiSMP-ju morajo žal veljati določena pravila.</description>
     </item>
     
     <item>
       <title>Strežnik</title>
-      <link>http://smp.beziapp.si/posts/streznik/</link>
+      <link>https://smp.beziapp.si/posts/streznik/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://smp.beziapp.si/posts/streznik/</guid>
+      <guid>https://smp.beziapp.si/posts/streznik/</guid>
       <description>Generalno o strežniku in strežniški namestitvi.</description>
     </item>
     
     <item>
       <title>Varnostne kopije</title>
-      <link>http://smp.beziapp.si/posts/varnostne-kopije/</link>
+      <link>https://smp.beziapp.si/posts/varnostne-kopije/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://smp.beziapp.si/posts/varnostne-kopije/</guid>
+      <guid>https://smp.beziapp.si/posts/varnostne-kopije/</guid>
       <description>Varnostne kopije so pomemben del vsakega Minecraft strežnika.</description>
     </item>
     
