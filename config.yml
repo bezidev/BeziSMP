@@ -89,12 +89,16 @@ params:
 
       <br><br>
       Za **Java** igralce:
-      <li>Strežniška (pod)domena (oz. IP): **smp.beziapp.si**</li>
+      <ul>
+        <li>Strežniška (pod)domena (oz. IP): **smp.beziapp.si**</li>
+      </ul>
 
       <br><br>
       Za **Bedrock** igralce je konfiguracija malo drugačna:
-      <li>Strežniška (pod)domena (oz. IP): **mcsmp.beziapp.si** ali **beziapp.si**</li>
-      <li>Vrata (port): **20000**</li>
+      <ul>
+        <li>Strežniška (pod)domena (oz. IP): **mcsmp.beziapp.si** ali **beziapp.si**</li>
+        <li>Vrata (port): **20000**</li>
+      </ul>
 
       <br><br>
       Hahaha, skoraj bi pozabil. Strežnik trenutno laufa na **Paperju 1.19.4**.
