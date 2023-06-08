@@ -69,7 +69,7 @@ params:
     enabled: false
     title: BežiSMP
     imageUrl: "#"
-    imageTitle: my image
+    imageTitle: BežiSMP logo
     # imageWidth: 120
     # imageHeight: 120
     buttons:
@@ -89,12 +89,15 @@ params:
 
       <br><br>
       Za **Java** igralce:
-      > Strežniška (pod)domena (oz. IP): **smp.beziapp.si**
+      <br>
+      Strežniška (pod)domena (oz. IP): **smp.beziapp.si**
 
       <br><br>
       Za **Bedrock** igralce je konfiguracija malo drugačna:
-      > Strežniška (pod)domena (oz. IP): **mcsmp.beziapp.si** ali **beziapp.si**
-      > Vrata (port): **20000**
+      <br>
+      Strežniška (pod)domena (oz. IP): **mcsmp.beziapp.si** ali **beziapp.si**
+      <br>
+      Vrata (port): **20000**
 
       <br><br>
       Hahaha, skoraj bi pozabil. Strežnik trenutno laufa na **Paperju 1.19.4**.
