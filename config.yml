@@ -81,16 +81,25 @@ params:
   homeInfoParams:
     Title: "BežiSMP"
     Content: >
-      **NEDAVNO SEM NADGRADIL STREŽNIK NA 1.19.4. OD ZDAJ NAPREJ ZAHTEVA 1.19.4 KLIENTE.** <br><br>
+      **UVEDENA JE EKSPERIMENTALNA PODPORA ZA BEDROCK IN MINECRAFT 1.20 KLIENTE.** <br><br>
 
       Pozdravljeni na spletni strani neuradnega Minecraft strežnika Gimnazije Bežigrad, na kratko BežiSMP-ja.
 
-      Na Minecraft server se lahko pridružite in priključite vsi Bežigrajčani, dobrodošli ste pa tudi na naš Discord server.
-
-      Ne bom dolgovezil, tukaj imate naš [Discord server](https://discord.gg/Anh6rSPM2P), strežniška (pod)domena (oz. IP) pa je **smp.beziapp.si**.
+      Na Minecraft server se lahko pridružite in priključite vsi Bežigrajčani, dobrodošli pa ste tudi na naš Discord server.
 
       <br><br>
-      Hahaha, skoraj bi pozabil. Strežnik trenutno laufa na **Paperju 1.19.4**. Na strežnik se lahko povežete z **Minecraft 1.19.4 klientom**. Planirana je migracija na 1.20 (ko bo enkrat izšla).
+      Za **Java** igralce:
+      - Strežniška (pod)domena (oz. IP): **smp.beziapp.si**.
+
+      <br><br>
+      Za **Bedrock** igralce je konfiguracija malo drugačna:
+      - Strežniška (pod)domena (oz. IP): **mcsmp.beziapp.si** ali **beziapp.si**
+      - Vrata (port): **20000**
+
+      <br><br>
+      Hahaha, skoraj bi pozabil. Strežnik trenutno laufa na **Paperju 1.19.4**.
+      Na strežnik se lahko povežete z **Minecraft 1.19.4 klientom** (eksperimentalno lahko tudi z 1.20).
+      Migracija na 1.20 je planirana, ko izide Paper 1.20.
 
       <br><br>
       V primeru nedelovanja strežnika o tem obvestite sistemskega administratorja preko [Discorda](https://discord.com/users/761599472454205531)

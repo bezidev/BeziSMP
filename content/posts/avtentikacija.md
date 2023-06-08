@@ -1,7 +1,7 @@
 ---
 author: "BežiSMP"
 title: "Avtentikacija"
-date: "2023-05-21"
+date: "2023-06-08"
 description: "Vse o avtentikaciji (različni tipi računov) na BežiSMP-ju."
 tags: []
 ShowToc: true
@@ -37,6 +37,12 @@ Vse, kar morate narediti je, da sledite navodilom, ki se vam prikažejo na zaslo
 Prijavite se z uporabo ukaza: `/login <vaše geslo>`, pri čemer `<vaše geslo>` zamenjajte z dejanskim geslom.
 
 Vse, kar morate narediti je, da sledite navodilom, ki se vam prikažejo na zaslonu. V primeru, da ne boste dovolj hitri, vas bo strežnik avtomatično vrgel ven iz igre.
+
+## Bedrock avtentikacija
+
+Vsi računi, ki se pridružujejo iz Bedrock klienta dobijo pred ime piko (`.`), da se lahko razlikujejo od Java računov. Bedrock podpora je eksperimentalna, zato kontaktirajte [strežniškega administratorja](/posts/osebje) v primeru težav.
+
+Vsi Bedrock računi se avtenticirajo po principu [Offline avtentikacije](#offline-avtentikacija).
 
 ## Za vse
 
