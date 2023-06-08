@@ -10,8 +10,26 @@
       <link>https://smp.beziapp.si/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sl-SI</language>
-    <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smp.beziapp.si/index.xml" rel="self" type="application/rss+xml" />
+    <language>sl</language>
+    <lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smp.beziapp.si/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avtentikacija</title>
+      <link>https://smp.beziapp.si/posts/avtentikacija/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smp.beziapp.si/posts/avtentikacija/</guid>
+      <description>Vse o avtentikaciji (različni tipi računov) na BežiSMP-ju.</description>
+    </item>
+    
+    <item>
+      <title>Strežnik</title>
+      <link>https://smp.beziapp.si/posts/streznik/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smp.beziapp.si/posts/streznik/</guid>
+      <description>Generalno o strežniku in strežniški namestitvi.</description>
+    </item>
+    
     <item>
       <title>Voice chat</title>
       <link>https://smp.beziapp.si/posts/voice/</link>
@@ -19,15 +37,6 @@
       
       <guid>https://smp.beziapp.si/posts/voice/</guid>
       <description>Na strežniku je nameščen proximity voice chat. (uporaba ni obvezna - za zdaj ...)</description>
-    </item>
-    
-    <item>
-      <title>Avtentikacija</title>
-      <link>https://smp.beziapp.si/posts/avtentikacija/</link>
-      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://smp.beziapp.si/posts/avtentikacija/</guid>
-      <description>Vse o avtentikaciji (različni tipi računov) na BežiSMP-ju.</description>
     </item>
     
     <item>
@@ -64,15 +73,6 @@
       
       <guid>https://smp.beziapp.si/posts/pravila/</guid>
       <description>Na BežiSMP-ju morajo žal veljati določena pravila.</description>
-    </item>
-    
-    <item>
-      <title>Strežnik</title>
-      <link>https://smp.beziapp.si/posts/streznik/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://smp.beziapp.si/posts/streznik/</guid>
-      <description>Generalno o strežniku in strežniški namestitvi.</description>
     </item>
     
     <item>

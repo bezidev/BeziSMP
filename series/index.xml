@@ -10,6 +10,6 @@
       <link>https://smp.beziapp.si/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sl-SI</language><atom:link href="https://smp.beziapp.si/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>sl</language><atom:link href="https://smp.beziapp.si/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
