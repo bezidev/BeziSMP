@@ -1,14 +1,14 @@
 ---
 author: "BežiSMP"
 title: "Igralci"
-date: "2023-05-01"
+date: "2023-06-11"
 description: "Brez igralcev ne bi bilo tega strežnika."
 tags: []
 ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-Spodaj lahko najdete igralce, ki so (ali še vedno) redno igrajo na BežiSMP-ju in so veliko doprinesli k strežniku. Igralci so podani v abecednem vrstnem redu.
+Spodaj lahko najdete igralce, ki so (ali še vedno) redno igrajo na BežiSMP-ju in so veliko doprinesli k strežniku. Igralci so podani v abecednem vrstnem redu (vsaj upam, da je tako).
 
 ## Aelin5
 

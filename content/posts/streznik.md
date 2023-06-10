@@ -1,7 +1,7 @@
 ---
 author: "BežiSMP"
 title: "Strežnik"
-date: "2023-06-08"
+date: "2023-06-11"
 description: "Generalno o strežniku in strežniški namestitvi."
 tags: []
 ShowToc: false
@@ -19,7 +19,7 @@ Strežniške specifikacije so naslednje:
 - Matična plošča: ena random Gigabyte B550M plošča
 - Operacijski sistem: Fedora Server 37 (a kaj obžalujem, da nisem šel Ubuntu/Debian? Malo, ampak veliko tudi ne.)
 - ISP: Telemach... (upam, da bo kdaj IPv6)
-- Minecraft strežnik: Pufferfish 1.19.4 (v resnici Paper 1.19.4, samo da še z dodatnimi optimizacijami)
+- Minecraft strežnik: Paper 1.20 (fork Spigota)
 
 Torej server **NE BO** laggal dokler ne boste gradili lag mašin.
 

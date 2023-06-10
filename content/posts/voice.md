@@ -1,7 +1,7 @@
 ---
 author: "BežiSMP"
 title: "Voice chat"
-date: "2023-05-25"
+date: "2023-06-11"
 description: "Na strežniku je nameščen proximity voice chat. (uporaba ni obvezna - za zdaj ...)"
 tags: []
 ShowToc: true
@@ -16,7 +16,7 @@ ShowBreadCrumbs: false
 
 [Prenos za ostale platforme](/mods/fabric-installer-0.11.2.jar)
 
-Generalno morate samo pognati datoteko in klikniti namesti. Na Windowsu ni potrebna nadaljnja konfiguracija, razen tega, da moramo namestiti `Fabric 1.19.4` (tj. v času pisanja najnovejša različica).
+Generalno morate samo pognati datoteko in klikniti namesti. Na Windowsu ni potrebna nadaljnja konfiguracija, razen tega, da moramo namestiti `Fabric 1.20` (tj. v času pisanja najnovejša različica).
 
 Če ste bolj napreden uporabnik, si seveda lahko prenesete installerje preko [Fabricove uradne spletne strani](https://fabricmc.net).
 
@@ -24,12 +24,12 @@ Generalno morate samo pognati datoteko in klikniti namesti. Na Windowsu ni potre
 
 ## Prenos
 
-Tukaj si lahko prenesete mode (Fabric 1.19.4):
+Tukaj si lahko prenesete mode (Fabric 1.20):
 
-- (neobvezen) [Modmenu 6.2.1 (Fabric)](/mods/modmenu-6.2.1.jar)
-- (če uporabljate TLauncher, ni potreben) [Sodium 1.19.4 (Fabric)](/mods/sodium-fabric-mc1.19.4-0.4.10+build.24.jar)
-- (če uporabljate TLauncher, ni potreben) [Fabric API 1.19.4](/mods/fabric-api-0.81.1+1.19.4.jar)
-- [Simple Voice Chat 1.19.4/2.4.8 (Fabric)](/mods/voicechat-fabric-1.19.4-2.4.8.jar)
+- (neobvezen) [Modmenu 7.0.1 (Fabric)](/mods/modmenu-7.0.1.jar)
+- (če uporabljate TLauncher, ni potreben) [Sodium 1.20 (Fabric)](/mods/sodium-fabric-mc1.20-0.4.10+build.27.jar)
+- (če uporabljate TLauncher, ni potreben) [Fabric API 1.20](/mods/fabric-api-0.83.0+1.20.jar)
+- [Simple Voice Chat 1.20/2.4.9 (Fabric)](/mods/voicechat-fabric-1.20-2.4.9.jar)
 
 ## Namestitev, specifična za Minecraft cliente
 

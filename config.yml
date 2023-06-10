@@ -81,7 +81,7 @@ params:
   homeInfoParams:
     Title: "BežiSMP"
     Content: >
-      **UVEDENA JE EKSPERIMENTALNA PODPORA ZA BEDROCK IN MINECRAFT 1.20 KLIENTE.** <br><br>
+      **STREŽNIK SEM NADGRADIL NA 1.20. OD ZDAJ NAPREJ PODPIRA SAMO 1.20 KLIENTE. UVEDENA JE EKSPERIMENTALNA PODPORA ZA BEDROCK KLIENTE.** <br><br>
 
       Pozdravljeni na spletni strani neuradnega Minecraft strežnika Gimnazije Bežigrad, na kratko BežiSMP-ja.
 
@@ -100,9 +100,8 @@ params:
       Vrata (port): **20000**
 
       <br><br>
-      Hahaha, skoraj bi pozabil. Strežnik trenutno laufa na **Paperju 1.19.4**.
-      Na strežnik se lahko povežete z **Minecraft 1.19.4 klientom** (eksperimentalno lahko tudi z 1.20).
-      Migracija na 1.20 je planirana, ko izide Paper 1.20.
+      Hahaha, skoraj bi pozabil. Strežnik trenutno laufa na **Paperju 1.20**.
+      Na strežnik se lahko povežete z **Minecraft 1.20 klientom**.
 
       <br><br>
       V primeru nedelovanja strežnika o tem obvestite sistemskega administratorja preko [Discorda](https://discord.com/users/761599472454205531)
