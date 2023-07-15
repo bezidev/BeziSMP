@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl</language>
-    <lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smp.beziapp.si/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smp.beziapp.si/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Igralci</title>
+      <link>https://smp.beziapp.si/posts/igralci/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smp.beziapp.si/posts/igralci/</guid>
+      <description>Brez igralcev ne bi bilo tega strežnika.</description>
+    </item>
+    
+    <item>
+      <title>Osebje</title>
+      <link>https://smp.beziapp.si/posts/osebje/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smp.beziapp.si/posts/osebje/</guid>
+      <description>Osebje lahko kontaktirate v primeru česarkoli v zvezi s strežnikom.</description>
+    </item>
+    
+    <item>
+      <title>Strežnik</title>
+      <link>https://smp.beziapp.si/posts/streznik/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smp.beziapp.si/posts/streznik/</guid>
+      <description>Generalno o strežniku in strežniški namestitvi.</description>
+    </item>
+    
+    <item>
+      <title>Voice chat</title>
+      <link>https://smp.beziapp.si/posts/voice/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smp.beziapp.si/posts/voice/</guid>
+      <description>Na strežniku je nameščen proximity voice chat. (uporaba ni obvezna - za zdaj ...)</description>
+    </item>
+    
     <item>
       <title>Avtentikacija</title>
       <link>https://smp.beziapp.si/posts/avtentikacija/</link>
